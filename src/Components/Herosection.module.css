@@ -1,0 +1,54 @@
+.heroSec {
+    /* position: relative; */
+    background: rgba(16, 144, 203, 0.1);
+}
+
+/* .vectorOne {
+    position: absolute;
+} */
+
+/* left-[90%] top-[55%] sm:left-[92%] sm:top-[52%] md:left-[96%] md:top-[18%] */
+
+
+
+@media only screen and (max-width: 360px) {
+    .vectorOne {
+        top: 55%;
+        left: 87%;
+    }
+}
+
+@media (min-width: 361px) and (max-width:375px) {
+    .vectorOne {
+        top: 55%;
+        left: 88%;
+    }
+}
+
+@media (min-width: 376px) and (max-width:390px) {
+    .vectorOne {
+        top: 55%;
+        left: 89%;
+    }
+}
+
+@media (min-width: 391px) and (max-width:393px) {
+    .vectorOne {
+        top: 55%;
+        left: 89%;
+    }
+}
+
+@media (min-width: 394px) and (max-width:400px) {
+    .vectorOne {
+        top: 55%;
+        left: 90%;
+    }
+}
+
+@media (min-width: 401px) and (max-width:414px) {
+    .vectorOne {
+        top: 55%;
+        left: 90%;
+    }
+}
